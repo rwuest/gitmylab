@@ -12,7 +12,7 @@ TODO:
 ## How to start - Configuration
 To configure Gitmylab, all needed config Files are located in your Homedirectory inside the folder .gitmylab.
 For Mac e.g.:
-/Users/<Your User>/.gitmylab/
+/Users/YourUser/.gitmylab/
 
 * You need to specify the Git URL and set your personal Access Token, this will be done in the config file gitlab.yaml
 * Inside the config file sync.yaml you have to add your local path, where all the modules have to be synced in.
